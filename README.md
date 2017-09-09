@@ -44,7 +44,7 @@ A curated list of AI security resources
 |Type|Title|
 |---|:---|
 |![][research] |[Can Machine Learning Be Secure?](https://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf)|
-
+|![][research]|[On The Integrity Of Deep Learning Systems In Adversarial Settings](https://etda.libraries.psu.edu/catalog/28680)|
 ## [▲](#keywords) Code
 |Type|Title|
 |---|:---|
