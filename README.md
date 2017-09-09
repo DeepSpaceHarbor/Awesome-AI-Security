@@ -20,8 +20,8 @@ A curated list of AI security resources
 
 ## Keywords:
 - [Adversarial examples](#-adversarial-examples)
-- Evasion attacks
-- Poisoning attacks
+- [Evasion attacks](#-evasion)
+- [Poisoning attacks](#-poisoning)
 - Feature selection
 - Tutorials
 - [Misc](#-misc)
@@ -39,6 +39,16 @@ A curated list of AI security resources
 |![][research] |[Crafting Adversarial Input Sequences for Recurrent Neural Networks](https://arxiv.org/abs/1604.08275)|
 |![][research]|[Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)|
 
+## [▲](#keywords) Evasion
+|Type|Title|
+|---|:---|
+|![][research]|[Query Strategies for Evading Convex-Inducing Classifiers](https://people.eecs.berkeley.edu/~adj/publications/paper-files/1007-0484v1.pdf)|
+|![][research]|[Evasion attacks against machine learning at test time](https://pralab.diee.unica.it/sites/default/files/Biggio13-ecml.pdf)|
+
+## [▲](#keywords) Poisoning
+|Type|Title|
+|---|:---|
+|![][research] ![][slides]|[Poisoning Behavioral Malware Clustering](http://pralab.diee.unica.it/en/node/1121)|
 
 ## [▲](#keywords) Misc
 |Type|Title|
