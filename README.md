@@ -22,11 +22,11 @@ A curated list of AI security resources
 - [Adversarial examples](#-adversarial-examples)
 - [Evasion attacks](#-evasion)
 - [Poisoning attacks](#-poisoning)
-- Feature selection
+- [Feature selection](#-feature-selection)
 - Tutorials
 - [Misc](#-misc)
 - [Code](#-code)
-
+- [Links](#-links)
 ## [▲](#keywords) Adversarial examples
 |Type|Title|
 |---|:---|
@@ -44,6 +44,7 @@ A curated list of AI security resources
 |---|:---|
 |![][research]|[Query Strategies for Evading Convex-Inducing Classifiers](https://people.eecs.berkeley.edu/~adj/publications/paper-files/1007-0484v1.pdf)|
 |![][research]|[Evasion attacks against machine learning at test time](https://pralab.diee.unica.it/sites/default/files/Biggio13-ecml.pdf)|
+|![][research]|[Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](http://evademl.org/docs/evademl.pdf)|
 
 ## [▲](#keywords) Poisoning
 |Type|Title|
@@ -61,7 +62,14 @@ A curated list of AI security resources
 |---|:---|
 |![][research] |[Can Machine Learning Be Secure?](https://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf)|
 |![][research]|[On The Integrity Of Deep Learning Systems In Adversarial Settings](https://etda.libraries.psu.edu/catalog/28680)|
+
 ## [▲](#keywords) Code
 |Type|Title|
 |---|:---|
 |![][code]|[CleverHans - Python library to benchmark machine learning systems vulnerability to adversarial examples](https://github.com/tensorflow/cleverhans)|
+
+## [▲](#keywords) Links
+|Type|Title|
+|---|:---|
+|![][web]|[EvadeML - Machine Learning in the Presence of Adversaries](http://evademl.org/)|
+|![][web]|[Adversarial Machine Learning - PRA Lab](https://pralab.diee.unica.it/en/AdversarialMachineLearning)|
