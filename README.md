@@ -49,6 +49,12 @@ A curated list of AI security resources
 |Type|Title|
 |---|:---|
 |![][research] ![][slides]|[Poisoning Behavioral Malware Clustering](http://pralab.diee.unica.it/en/node/1121)|
+|![][research]|[Efficient Label Contamination Attacks Against Black-Box Learning Models](https://www.ijcai.org/proceedings/2017/0551.pdf)|
+
+## [▲](#keywords) Feature selection
+|Type|Title|
+|---|:---|
+|![][research] ![][slides]|[Is Feature Selection Secure against Training Data Poisoning?](https://pralab.diee.unica.it/en/node/1191)|
 
 ## [▲](#keywords) Misc
 |Type|Title|
