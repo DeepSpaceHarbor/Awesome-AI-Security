@@ -16,7 +16,7 @@ A curated list of AI security resources
 - Misc
 
 ## [▲](#keywords) Adversarial examples
-|   |   |   |
-|---|---|---|
-|![Research](https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-32.png "Research")  | [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)  |   |
-| ![Research](https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-32.png "Research")  | [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277)  |   |
+|   |   |
+|---|---|
+|![Research](https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-32.png "Research")  | [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)  |
+| ![Research](https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-32.png "Research")  | [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277)  |
