@@ -40,4 +40,4 @@ A curated list of AI security resources
 ## [▲](#keywords) Code
 |Type|Title|
 |---|:---|
-|![Code](https://cdn2.iconfinder.com/data/icons/snipicons/500/application-code-32.png "Code") |[CleverHans - Python library to benchmark machine learning systems vulnerability to adversarial examples.](https://github.com/tensorflow/cleverhans)|
+|![Code](https://cdn2.iconfinder.com/data/icons/snipicons/500/application-code-32.png "Code") |[CleverHans - Python library to benchmark machine learning systems vulnerability to adversarial examples](https://github.com/tensorflow/cleverhans)|
