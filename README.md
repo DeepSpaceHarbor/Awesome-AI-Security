@@ -31,21 +31,23 @@ A curated list of AI security resources
 |Type|Title|
 |---|:---|
 |![][research]  | [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)  |
-| ![][research]  | [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277)  |
-|![][research] |[On the (Statistical) Detection of Adversarial Examples](https://arxiv.org/abs/1702.06280)|
-|![][research] |[The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453)|
-|![][research] |[Adversarial Attacks on Neural Network Policies](http://rll.berkeley.edu/adversarial/)|
-|![][research] |[Adversarial Perturbations Against Deep Neural Networks for Malware Classification](https://arxiv.org/abs/1606.04435)|
-|![][research] |[Crafting Adversarial Input Sequences for Recurrent Neural Networks](https://arxiv.org/abs/1604.08275)|
-|![][research]|[Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)|
-
+| ![][research]  | [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277)|
+|![][research] | [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770)|
+|![][research] | [On the (Statistical) Detection of Adversarial Examples](https://arxiv.org/abs/1702.06280)|
+|![][research] | [The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453)|
+|![][research] | [Adversarial Attacks on Neural Network Policies](http://rll.berkeley.edu/adversarial/)|
+|![][research] | [Adversarial Perturbations Against Deep Neural Networks for Malware Classification](https://arxiv.org/abs/1606.04435)|
+|![][research] | [Crafting Adversarial Input Sequences for Recurrent Neural Networks](https://arxiv.org/abs/1604.08275)|
+|![][research]| [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)|
+|![][research]| [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)|
 ## [▲](#keywords) Evasion
 |Type|Title|
 |---|:---|
 |![][research]|[Query Strategies for Evading Convex-Inducing Classifiers](https://people.eecs.berkeley.edu/~adj/publications/paper-files/1007-0484v1.pdf)|
 |![][research]|[Evasion attacks against machine learning at test time](https://pralab.diee.unica.it/sites/default/files/Biggio13-ecml.pdf)|
 |![][research]|[Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](http://evademl.org/docs/evademl.pdf)|
-
+|![][research]|[Looking at the Bag is not Enough to Find the Bomb: An Evasion of Structural Methods for Malicious PDF Files Detection](https://pralab.diee.unica.it/sites/default/files/maiorca_ASIACCS13.pdf)|
+|![][research]|[Generic Black-Box End-to-End Attack against RNNs and Other API Calls Based Malware Classifiers](https://arxiv.org/abs/1707.05970)|
 ## [▲](#keywords) Poisoning
 |Type|Title|
 |---|:---|
@@ -62,12 +64,15 @@ A curated list of AI security resources
 |---|:---|
 |![][research] |[Can Machine Learning Be Secure?](https://people.eecs.berkeley.edu/~adj/publications/paper-files/asiaccs06.pdf)|
 |![][research]|[On The Integrity Of Deep Learning Systems In Adversarial Settings](https://etda.libraries.psu.edu/catalog/28680)|
-
+|![][research]|[Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)|
+|![][research]|[Data Driven Exploratory Attacks on Black Box Classifiers in Adversarial Domains](https://arxiv.org/abs/1703.07909)|
+|![][research]|[Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures](https://www.cs.cmu.edu/~mfredrik/papers/fjr2015ccs.pdf)|
+|![][research]|[A Methodology for Formalizing Model-Inversion Attacks](https://andrewxiwu.github.io/public/papers/2016/WFJN16-a-methodology-for-modeling-model-inversion-attacks.pdf)|
 ## [▲](#keywords) Code
 |Type|Title|
 |---|:---|
 |![][code]|[CleverHans - Python library to benchmark machine learning systems vulnerability to adversarial examples](https://github.com/tensorflow/cleverhans)|
-
+|![][code]|[Model extraction attacks on Machine-Learning-as-a-Service platforms](https://github.com/ftramer/Steal-ML)|
 ## [▲](#keywords) Links
 |Type|Title|
 |---|:---|
