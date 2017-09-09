@@ -1,4 +1,4 @@
-# Awesome-AI-Security
+# Awesome AI Security <img src="https://cdn4.iconfinder.com/data/icons/very_emotional_emoticons_lazy/128x128/128-3.png" height="32" width="32" >
 A curated list of AI security resources
     
 [research]: https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-32.png "Research"
