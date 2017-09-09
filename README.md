@@ -1,5 +1,5 @@
-# Awesome AI Security ![](https://cdn3.iconfinder.com/data/icons/developperss/PNG/Star.png)
-A curated list of AI security resources
+# Awesome AI Security ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+A curated list of AI security resources inspired by [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) & [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity).
     
 [research]: https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-32.png "Research"
 [slides]: https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/x-office-presentation-32.png "Slides"
