@@ -14,7 +14,7 @@ A curated list of AI security resources
 - Adversarial examples
 - Feature selection
 - Tutorials
-- [Misc](#Misc)
+- [Misc](#-misc)
 - Code
 
 ## [▲](#keywords) Adversarial examples
