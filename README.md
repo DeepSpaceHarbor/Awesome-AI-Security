@@ -49,6 +49,17 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][research]| [Adversarial Examples for Evaluating Reading Comprehension Systems](https://nlp.stanford.edu/pubs/jia2017adversarial.pdf)|
 |![][video]| [Adversarial Examples and Adversarial Training by Ian Goodfellow at Stanford](https://www.youtube.com/watch?v=CIfsB_EYsVI)|
 |![][research]| [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](http://yclin.me/adversarial_attack_RL/)|
+|![][research]| [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/1801.00553)|
+|![][research]| [Did you hear that? Adversarial Examples Against Automatic Speech Recognition](https://arxiv.org/abs/1801.00554)|
+|![][research]| [Adversarial Manipulation of Deep Representations](https://arxiv.org/abs/1511.05122)|
+|![][research]| [Exploring the Space of Adversarial Images](https://arxiv.org/abs/1510.05328)|
+|![][research]| [Note on Attacking Object Detectors with Adversarial Stickers](https://arxiv.org/abs/1712.08062)|
+|![][research]| [Adversarial Patch](https://arxiv.org/abs/1712.09665)|
+|![][research]| [LOTS about Attacking Deep Features](https://arxiv.org/abs/1611.06179)|
+|![][research]| [Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN](https://arxiv.org/abs/1702.05983)|
+|![][research]| [Adversarial Images for Variational Autoencoders](https://arxiv.org/abs/1612.00155)|
+|![][research]| [Delving into adversarial attacks on deep policies](https://arxiv.org/abs/1705.06452)|
+|![][research]| [Simple Black-Box Adversarial Perturbations for Deep Networks](https://arxiv.org/abs/1612.06299)|
 
 ## [▲](#keywords) Evasion
 |Type|Title|
@@ -61,6 +72,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][research]|[Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf)|
 |![][research]| [Fast Feature Fool: A data independent approach to universal adversarial perturbations](https://arxiv.org/abs/1707.05572v1)|
 |![][research]| [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864v1)|
+|![][research]| [Adversarial Generative Nets: Neural Network Attacks on State-of-the-Art Face Recognition](https://arxiv.org/abs/1801.00349)|
 
 ## [▲](#keywords) Poisoning
 |Type|Title|
@@ -84,6 +96,11 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][research]|[A Methodology for Formalizing Model-Inversion Attacks](https://andrewxiwu.github.io/public/papers/2016/WFJN16-a-methodology-for-modeling-model-inversion-attacks.pdf)|
 |![][research]|[Adversarial Attacks against Intrusion Detection Systems: Taxonomy, Solutions and Open Issues](https://pdfs.semanticscholar.org/d4e8/aed54dc4c6bed41651254a49d47885648142.pdf)|
 |![][slides]|[Adversarial Data Mining for Cyber Security](https://www.utdallas.edu/~muratk/CCS-tutorial.pdf)|
+|![][research]| [High Dimensional Spaces, Deep Learning and Adversarial Examples](https://arxiv.org/abs/1801.00634)|
+|![][research]| [Neural Networks in Adversarial Setting and Ill-Conditioned Weight Space](https://arxiv.org/abs/1801.00905)|
+|![][web]| [Adversarial Machines](https://medium.com/@samim/adversarial-machines-998d8362e996)|
+|![][research]| [Adversarial Task Allocation](https://arxiv.org/abs/1709.00358)|
+|![][research]| [Vulnerability of Deep Reinforcement Learning to Policy Induction Attacks](https://arxiv.org/abs/1701.04143)|
 
 ## [▲](#keywords) Code
 |Type|Title|
