@@ -60,6 +60,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][research]| [Adversarial Images for Variational Autoencoders](https://arxiv.org/abs/1612.00155)|
 |![][research]| [Delving into adversarial attacks on deep policies](https://arxiv.org/abs/1705.06452)|
 |![][research]| [Simple Black-Box Adversarial Perturbations for Deep Networks](https://arxiv.org/abs/1612.06299)|
+|![][research]| [DeepFool: a simple and accurate method to fool deep neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf)|
 
 ## [▲](#keywords) Evasion
 |Type|Title|
@@ -79,6 +80,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |---|:---|
 |![][research] ![][slides]|[Poisoning Behavioral Malware Clustering](http://pralab.diee.unica.it/en/node/1121)|
 |![][research]|[Efficient Label Contamination Attacks Against Black-Box Learning Models](https://www.ijcai.org/proceedings/2017/0551.pdf)|
+|![][research]|[Towards Poisoning of Deep Learning Algorithms with Back-gradient Optimization](https://arxiv.org/abs/1708.08689)|
 
 ## [▲](#keywords) Feature selection
 |Type|Title|
@@ -101,6 +103,12 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][web]| [Adversarial Machines](https://medium.com/@samim/adversarial-machines-998d8362e996)|
 |![][research]| [Adversarial Task Allocation](https://arxiv.org/abs/1709.00358)|
 |![][research]| [Vulnerability of Deep Reinforcement Learning to Policy Induction Attacks](https://arxiv.org/abs/1701.04143)|
+|![][research]| [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141)|
+|![][research]| [Adversarial Robustness: Softmax versus Openmax](https://arxiv.org/abs/1708.01697)|
+|![][video]| [DEF CON 25 - Hyrum Anderson - Evading next gen AV using AI](https://youtu.be/FGCle6T0Jpc)|
+|![][web]| [Adversarial Learning for Good: My Talk at #34c3 on Deep Learning Blindspots](http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/)|
+|![][research]| [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)|
+|![][other]| [Camouflage from face detection - CV Dazzle](https://www.cvdazzle.com/)|
 
 ## [▲](#keywords) Code
 |Type|Title|
@@ -108,6 +116,12 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[CleverHans - Python library to benchmark machine learning systems vulnerability to adversarial examples](https://github.com/tensorflow/cleverhans)|
 |![][code]|[Model extraction attacks on Machine-Learning-as-a-Service platforms](https://github.com/ftramer/Steal-ML)|
 |![][code]|[Foolbox - Python toolbox to create adversarial examples](https://github.com/bethgelab/foolbox)|
+|![][code]|[Adversarial Machine Learning Library(Ad-lib)](https://github.com/vu-aml/adlib)|
+|![][code]|[Deep-pwning](https://github.com/cchio/deep-pwning)|
+|![][code]|[DeepFool](https://github.com/lts4/deepfool)|
+|![][code]|[Universal adversarial perturbations](https://github.com/LTS4/universal)|
+|![][code]|[Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware)|
+|![][code]|[Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)|
 
 ## [▲](#keywords) Links
 |Type|Title|
@@ -115,3 +129,4 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][web]|[EvadeML - Machine Learning in the Presence of Adversaries](http://evademl.org/)|
 |![][web]|[Adversarial Machine Learning - PRA Lab](https://pralab.diee.unica.it/en/AdversarialMachineLearning)|
 |![][web]|[Adversarial Examples and their implications](https://hackernoon.com/the-implications-of-adversarial-examples-deep-learning-bits-3-4086108287c7)|
+
