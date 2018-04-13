@@ -62,6 +62,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][research]| [Simple Black-Box Adversarial Perturbations for Deep Networks](https://arxiv.org/abs/1612.06299)|
 |![][research]| [DeepFool: a simple and accurate method to fool deep neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf)|
 
+
 ## [▲](#keywords) Evasion
 |Type|Title|
 |---|:---|
@@ -74,6 +75,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][research]| [Fast Feature Fool: A data independent approach to universal adversarial perturbations](https://arxiv.org/abs/1707.05572v1)|
 |![][research]| [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864v1)|
 |![][research]| [Adversarial Generative Nets: Neural Network Attacks on State-of-the-Art Face Recognition](https://arxiv.org/abs/1801.00349)|
+|![][research]| [RHMD: Evasion-Resilient Hardware Malware Detectors](http://www.cs.ucr.edu/~kkhas001/pubs/micro17-rhmd.pdf)|
 
 ## [▲](#keywords) Poisoning
 |Type|Title|
