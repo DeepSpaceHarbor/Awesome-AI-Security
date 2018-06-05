@@ -124,6 +124,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[Universal adversarial perturbations](https://github.com/LTS4/universal)|
 |![][code]|[Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware)|
 |![][code]|[Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)|
+|![][code]|[AntiNex - Highly Accurate Deep Neural Networks to defend Software Systems from Network Exploits (works with docker-compose, Kubernetes and Openshift)](https://github.com/jay-johnson/train-ai-with-django-swagger-jwt)|
 
 ## [▲](#keywords) Links
 |Type|Title|
