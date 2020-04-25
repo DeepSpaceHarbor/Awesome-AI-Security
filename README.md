@@ -124,6 +124,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[Universal adversarial perturbations](https://github.com/LTS4/universal)|
 |![][code]|[Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware)|
 |![][code]|[Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)|
+|![][code]|[StringSifter - A machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)|
 
 ## [▲](#keywords) Links
 |Type|Title|
