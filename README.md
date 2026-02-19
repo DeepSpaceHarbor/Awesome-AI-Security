@@ -128,6 +128,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[CAI - Cybersecurity AI framework for autonomous security testing](https://github.com/aliasrobotics/CAI)|
 |![][code]|[dstack - Confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy](https://github.com/Dstack-TEE/dstack)|
 |![][code]|[ClawMoat - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse](https://github.com/darfaz/clawmoat)|
+|![][code]|[MOSS - Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for agent attribution and compliance](https://github.com/mosscomputing/moss)|
 
 ## [▲](#keywords) Links
 |Type|Title|
