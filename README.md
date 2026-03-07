@@ -111,6 +111,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][web]| [Adversarial Learning for Good: My Talk at #34c3 on Deep Learning Blindspots](http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/)|
 |![][research]| [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)|
 |![][other]| [Camouflage from face detection - CV Dazzle](https://www.cvdazzle.com/)|
+|![][web]| [WFGY Problem Map – Diagnosing Failures in RAG and LLM Pipelines](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) |
 
 ## [▲](#keywords) Code
 |Type|Title|
