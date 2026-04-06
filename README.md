@@ -8,6 +8,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 [code]: https://cdn2.iconfinder.com/data/icons/snipicons/500/application-code-32.png "Code"
 [other]: https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/emblem-symbolic-link-32.png "Uncategorized"
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security auditing, penetration testing analysis, and WAF agents for Claude Code. MIT licensed.
 #### Legend:
 |Type| Icon|
 |---|---|
