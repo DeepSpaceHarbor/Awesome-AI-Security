@@ -130,6 +130,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[dstack - Confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy](https://github.com/Dstack-TEE/dstack)|
 |![][code]|[ClawMoat - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse](https://github.com/darfaz/clawmoat)|
 |![][code]|[SkillFortify - Formal analysis and supply chain security for agentic AI skills. Sound static analysis, SAT-based dependency resolution, trust scoring, CycloneDX ASBOM. 5 theorems, F1=96.95%, 0% FP rate](https://github.com/varun369/skillfortify)|
+|![][code]|[Prompt Shield - Self-learning prompt injection detection engine with cross-domain techniques (Smith-Waterman alignment, stylometric analysis, fatigue tracking). 27 detectors, 6 output scanners, 10 languages. arXiv:2604.18248](https://github.com/mthamil107/prompt-shield)|
 
 ## [▲](#keywords) Links
 |Type|Title|
