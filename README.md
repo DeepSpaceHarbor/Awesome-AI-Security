@@ -130,6 +130,9 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[dstack - Confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy](https://github.com/Dstack-TEE/dstack)|
 |![][code]|[ClawMoat - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse](https://github.com/darfaz/clawmoat)|
 |![][code]|[SkillFortify - Formal analysis and supply chain security for agentic AI skills. Sound static analysis, SAT-based dependency resolution, trust scoring, CycloneDX ASBOM. 5 theorems, F1=96.95%, 0% FP rate](https://github.com/varun369/skillfortify)|
+|![][code]|[Agent-Wiz - Python CLI by Repello AI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling](https://github.com/Repello-AI/Agent-Wiz)|
+|![][code]|[Whistleblower - Open-source tool to test LLM applications for system prompt leakage by Repello AI](https://github.com/Repello-AI/whistleblower)|
+|![][code]|[mcp-exploit-demo - Reproducible POC for SSH key exfiltration via MCP tool poisoning by Repello AI](https://github.com/Repello-AI/mcp-exploit-demo)|
 
 ## [▲](#keywords) Links
 |Type|Title|
