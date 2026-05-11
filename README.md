@@ -130,6 +130,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[dstack - Confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy](https://github.com/Dstack-TEE/dstack)|
 |![][code]|[ClawMoat - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse](https://github.com/darfaz/clawmoat)|
 |![][code]|[SkillFortify - Formal analysis and supply chain security for agentic AI skills. Sound static analysis, SAT-based dependency resolution, trust scoring, CycloneDX ASBOM. 5 theorems, F1=96.95%, 0% FP rate](https://github.com/varun369/skillfortify)|
+|![][code]|[skill-audit-mcp - Static security scanner for MCP servers, AI agent skills, and plugins. 68 attack patterns across CRITICAL/HIGH/MEDIUM/LOW: credential exfiltration, prompt injection, code execution, seed-phrase harvesting, auth bypass, path traversal. SARIF output for GitHub Code Scanning, also a GitHub Action](https://github.com/eltociear/skill-audit-mcp)|
 
 ## [▲](#keywords) Links
 |Type|Title|
