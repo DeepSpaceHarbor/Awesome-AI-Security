@@ -130,6 +130,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[dstack - Confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy](https://github.com/Dstack-TEE/dstack)|
 |![][code]|[ClawMoat - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse](https://github.com/darfaz/clawmoat)|
 |![][code]|[SkillFortify - Formal analysis and supply chain security for agentic AI skills. Sound static analysis, SAT-based dependency resolution, trust scoring, CycloneDX ASBOM. 5 theorems, F1=96.95%, 0% FP rate](https://github.com/varun369/skillfortify)|
+|![][code]|[AI-Infra-Guard - Full-stack AI red teaming platform by Tencent Zhuque Lab: scans Agent Skills (tool poisoning, 9 attack classes), MCP servers (command injection, SSRF), AI infrastructure (50+ components, 1200+ CVEs), LLM jailbreak evaluation. Black Hat Europe 2025 Arsenal.](https://github.com/Tencent/AI-Infra-Guard)|
 
 ## [▲](#keywords) Links
 |Type|Title|
