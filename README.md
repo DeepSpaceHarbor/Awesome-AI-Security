@@ -128,6 +128,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[StringSifter - A machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)|
 |![][code]|[CAI - Cybersecurity AI framework for autonomous security testing](https://github.com/aliasrobotics/CAI)|
 |![][code]|[dstack - Confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy](https://github.com/Dstack-TEE/dstack)|
+|![][code]|[Armorer Guard - Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call detection](https://github.com/ArmorerLabs/Armorer-Guard)|
 |![][code]|[ClawMoat - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse](https://github.com/darfaz/clawmoat)|
 |![][code]|[SkillFortify - Formal analysis and supply chain security for agentic AI skills. Sound static analysis, SAT-based dependency resolution, trust scoring, CycloneDX ASBOM. 5 theorems, F1=96.95%, 0% FP rate](https://github.com/varun369/skillfortify)|
 
