@@ -126,6 +126,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware)|
 |![][code]|[Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial)|
 |![][code]|[StringSifter - A machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)|
+|![][code]|[Darkmoon - Open-source autonomous AI penetration testing platform and MCP host orchestrating 80+ offensive tools](https://github.com/ASCIT31/Dark-Moon)|
 |![][code]|[CAI - Cybersecurity AI framework for autonomous security testing](https://github.com/aliasrobotics/CAI)|
 |![][code]|[dstack - Confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy](https://github.com/Dstack-TEE/dstack)|
 |![][code]|[ClawMoat - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse](https://github.com/darfaz/clawmoat)|
