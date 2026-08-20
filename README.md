@@ -130,6 +130,7 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][code]|[dstack - Confidential AI framework for secure ML/LLM deployment with hardware-enforced isolation and data privacy](https://github.com/Dstack-TEE/dstack)|
 |![][code]|[ClawMoat - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse](https://github.com/darfaz/clawmoat)|
 |![][code]|[SkillFortify - Formal analysis and supply chain security for agentic AI skills. Sound static analysis, SAT-based dependency resolution, trust scoring, CycloneDX ASBOM. 5 theorems, F1=96.95%, 0% FP rate](https://github.com/varun369/skillfortify)|
+|![][code]|[MandateGuard - Deterministic payment policy enforcement for AI agents: pre-action gate enforcing budgets, allowlists, denylists, rate limits, and signed Ed25519 mandates, zero LLM in the decision path, tamper-evident SHA-256 ledger, official MCP server on the MCP Registry](https://github.com/ezequiellich44-cmd/MandateGuard)|
 
 ## [▲](#keywords) Links
 |Type|Title|
