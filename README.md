@@ -111,6 +111,8 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][video]| [DEF CON 25 - Hyrum Anderson - Evading next gen AV using AI](https://youtu.be/FGCle6T0Jpc)|
 |![][web]| [Adversarial Learning for Good: My Talk at #34c3 on Deep Learning Blindspots](http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/)|
 |![][research]| [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)|
+|![][web]| [Securing a RAG Pipeline: Where Retrieval Actually Leaks](https://traztech.ca/blog/securing-rag-pipelines) - Analysis of data leakage vectors in retrieval-augmented generation pipelines.|
+|![][web]| [AI Governance for Startups](https://traztech.ca/blog/ai-governance-framework-for-startups) - Practical AI governance framework for startups without a compliance department.|
 |![][other]| [Camouflage from face detection - CV Dazzle](https://www.cvdazzle.com/)|
 
 ## [▲](#keywords) Code
