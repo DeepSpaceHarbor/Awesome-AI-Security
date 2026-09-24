@@ -137,4 +137,5 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][web]|[EvadeML - Machine Learning in the Presence of Adversaries](http://evademl.org/)|
 |![][web]|[Adversarial Machine Learning - PRA Lab](https://pralab.diee.unica.it/en/AdversarialMachineLearning)|
 |![][web]|[Adversarial Examples and their implications](https://hackernoon.com/the-implications-of-adversarial-examples-deep-learning-bits-3-4086108287c7)|
+|![][other]|[Orca AI Incident Archive - Open database of real-world AI agent security incidents (prompt injection, agent supply chain, MCP, sandbox escapes), each with a primary source and real-harm / AI-involvement labels](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive)|
 
