@@ -138,3 +138,4 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][web]|[Adversarial Machine Learning - PRA Lab](https://pralab.diee.unica.it/en/AdversarialMachineLearning)|
 |![][web]|[Adversarial Examples and their implications](https://hackernoon.com/the-implications-of-adversarial-examples-deep-learning-bits-3-4086108287c7)|
 
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
