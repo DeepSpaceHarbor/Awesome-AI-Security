@@ -138,3 +138,5 @@ A curated list of AI security resources inspired by [awesome-adversarial-machine
 |![][web]|[Adversarial Machine Learning - PRA Lab](https://pralab.diee.unica.it/en/AdversarialMachineLearning)|
 |![][web]|[Adversarial Examples and their implications](https://hackernoon.com/the-implications-of-adversarial-examples-deep-learning-bits-3-4086108287c7)|
 
+
+- [{^} Protocol One — Human Intent Verification & Deepfake Wire Defense Standard](https://protocolone.store/pages/ai-index) - 5-layer cryptographic human intent standard with open-source Python verifiers.
